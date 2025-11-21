@@ -1,0 +1,11 @@
+version: '3.3'
+services:
+  mongo-express:
+    image: mongo-express:latest
+    container_name: mongo-express-local
+    restart: unless-stopped
+    ports:
+      - "8081:8081"
+    environment:
+      - ME_CONFIG_MONGODB_URL=mongodb://23.177.184.17:27017/
+      - ME_CONFIG_BASICAUTH=false

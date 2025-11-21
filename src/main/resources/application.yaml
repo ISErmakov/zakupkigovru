@@ -1,0 +1,29 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://23.177.184.17:27017/torgi-db
+      auto-index-creation: true
+
+server:
+  port: 8080
+
+logging:
+  level:
+    ru.ermakovdev.torgigov: DEBUG
+
+yandex:
+  geocoder:
+    api:
+      key: "7a280f16-7f4d-40e1-9c07-3037e2fba39f"
+      url: "https://geocode-maps.yandex.ru/1.x"
+
+app:
+  development:
+    limit: 30
+  geocoding:
+    enabled: true
+    delay-ms: 200
+
+torgi:
+  api:
+    url: "https://torgi.gov.ru/new/opendata/7710568760-notice/data-20251120T0000-20251121T0000-structure-20240401.json"
