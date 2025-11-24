@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/base/1" xmlns:ns4="http://zakupki.gov.ru/oos/common/1" xmlns:ns3="http://zakupki.gov.ru/oos/export/1" xmlns:ns6="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/KOTypes/1" xmlns:ns13="http://zakupki.gov.ru/oos/printform/1" xmlns:ns9="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns12="http://zakupki.gov.ru/oos/EATypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/URTypes/1" xmlns:ns10="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns14="http://zakupki.gov.ru/oos/control99/1">
+    <ns3:epNotificationEF2020 schemeVersion="15.3">
+        <ns5:id>41188462</ns5:id>
+        <ns5:externalId>2425208e-7e55-40b9-8df4-36f25b95275a01</ns5:externalId>
+        <ns5:versionNumber>1</ns5:versionNumber>
+        <ns5:commonInfo>
+            <ns5:purchaseNumber>0162300006925000005</ns5:purchaseNumber>
+            <ns5:docNumber>№0162300006925000005</ns5:docNumber>
+            <ns5:plannedPublishDate>2025-11-19+05:00</ns5:plannedPublishDate>
+            <ns5:publishDTInEIS>2025-11-19T17:06:55.872+05:00</ns5:publishDTInEIS>
+            <ns5:href>https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0162300006925000005</ns5:href>
+            <ns5:notPublishedOnEIS>true</ns5:notPublishedOnEIS>
+            <ns5:placingWay>
+                <ns2:code>EAP20</ns2:code>
+                <ns2:name>Электронный аукцион</ns2:name>
+            </ns5:placingWay>
+            <ns5:ETP>
+                <ns2:code>ETP_SBAST</ns2:code>
+                <ns2:name>АО «Сбербанк-АСТ»</ns2:name>
+                <ns2:url>http://www.sberbank-ast.ru</ns2:url>
+            </ns5:ETP>
+            <ns5:contractConclusionOnSt83Ch2>true</ns5:contractConclusionOnSt83Ch2>
+            <ns5:purchaseObjectInfo>поставка сувенирной и наградной продукции</ns5:purchaseObjectInfo>
+        </ns5:commonInfo>
+        <ns5:purchaseResponsibleInfo>
+            <ns5:responsibleOrgInfo>
+                <ns5:regNum>01623000069</ns5:regNum>
+                <ns5:consRegistryNum>65300223</ns5:consRegistryNum>
+                <ns5:fullName>АДМИНИСТРАЦИЯ ТАБОРИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА</ns5:fullName>
+                <ns5:postAddress>Российская Федерация, 623990, Свердловская обл, Таборинский р-н, Таборы с, УЛ. СОВЕТСКАЯ, Д.4</ns5:postAddress>
+                <ns5:factAddress>Российская Федерация, 623990, Свердловская обл, Таборинский р-н, Таборы с, УЛ. СОВЕТСКАЯ, Д.4</ns5:factAddress>
+                <ns5:INN>6653000381</ns5:INN>
+                <ns5:KPP>667601001</ns5:KPP>
+            </ns5:responsibleOrgInfo>
+            <ns5:responsibleRole>CU</ns5:responsibleRole>
+            <ns5:responsibleInfo>
+                <ns5:orgPostAddress>Российская Федерация, 623990, Свердловская обл, Таборинский р-н, Таборы с, УЛ. СОВЕТСКАЯ, Д.4</ns5:orgPostAddress>
+                <ns5:orgFactAddress>Российская Федерация, 623990, Свердловская обл, Таборинский р-н, Таборы с, УЛ. СОВЕТСКАЯ, Д.4</ns5:orgFactAddress>
+                <ns5:contactPersonInfo>
+                    <ns4:lastName>Кельбиханова</ns4:lastName>
+                    <ns4:firstName>Ольга</ns4:firstName>
+                    <ns4:middleName>Ивановна</ns4:middleName>
+                </ns5:contactPersonInfo>
+                <ns5:contactEMail>iljabarmin@mail.ru</ns5:contactEMail>
+                <ns5:contactPhone>7-34347-21186</ns5:contactPhone>
+                <ns5:contactFax>7-34347-21272</ns5:contactFax>
+            </ns5:responsibleInfo>
+        </ns5:purchaseResponsibleInfo>
+        <ns5:printFormInfo>
+            <ns4:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0162300006925000005</ns4:url>
+        </ns5:printFormInfo>
+        <ns5:attachmentsInfo>
+            <ns4:attachmentInfo>
+                <ns4:publishedContentId>E2A0DC11E5674A3B85A9ED6D98B0134F</ns4:publishedContentId>
+                <ns4:fileName>Результаты НМЦК калькулятора.docx</ns4:fileName>
+                <ns4:fileSize>18805</ns4:fileSize>
+                <ns4:docDescription>Обоснование начальной (максимальной) цены контракта</ns4:docDescription>
+                <ns4:docDate>2025-11-19T15:05:48+03:00</ns4:docDate>
+                <ns4:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=E2A0DC11E5674A3B85A9ED6D98B0134F</ns4:url>
+                <ns4:docKindInfo>
+                    <ns2:code>MRJ</ns2:code>
+                    <ns2:name>Обоснование начальной (максимальной) цены контракта</ns2:name>
+                </ns4:docKindInfo>
+                <ns4:cryptoSigns>
+                    <ns4:signature type="CAdES-BES">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</ns4:signature>
+                </ns4:cryptoSigns>
+            </ns4:attachmentInfo>
+            <ns4:attachmentInfo>
+                <ns4:publishedContentId>20CA7A5696D247018B45FCB6A331210E</ns4:publishedContentId>
+                <ns4:fileName>проект контракта наградная продукция.docx</ns4:fileName>
+                <ns4:fileSize>36727</ns4:fileSize>
+                <ns4:docDescription>Проект муниципального контракта</ns4:docDescription>
+                <ns4:docDate>2025-11-19T15:05:48+03:00</ns4:docDate>
+                <ns4:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=20CA7A5696D247018B45FCB6A331210E</ns4:url>
+                <ns4:docKindInfo>
+                    <ns2:code>CP</ns2:code>
+                    <ns2:name>Проект контракта</ns2:name>
+                </ns4:docKindInfo>
+                <ns4:cryptoSigns>
+                    <ns4:signature type="CAdES-BES">MIIVgAYJKoZIhvcNAQcCoIIVcTCCFW0CAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHAaCCEOUwggfdMIIHiqADAgECAgpsCcB2AAAAAAmMMAoGCCqFAwcBAQMCMIIBOzEhMB8GCSqGSIb3DQEJARYSZGl0QGRpZ2l0YWwuZ292LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMVMwUQYDVQQJDErQn9GA0LXRgdC90LXQvdGB0LrQsNGPINC90LDQsdC10YDQtdC20L3QsNGPLCDQtNC+0LwgMTAsINGB0YLRgNC+0LXQvdC40LUgMjEmMCQGA1UECgwd0JzQuNC90YbQuNGE0YDRiyDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEVMBMGBSqFA2QEEgo3NzEwNDc0Mzc1MSYwJAYDVQQDDB3QnNC40L3RhtC40YTRgNGLINCg0L7RgdGB0LjQuDAeFw0yNDA1MzAwODM4MzRaFw0zOTA1MzAwODM4MzRaMIIBYTEgMB4GCSqGSIb3DQEJARYRdWNfZmtAcm9za2F6bmEucnUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEVMBMGBSqFA2QEEgo3NzEwNTY4NzYwMRgwFgYFKoUDZAESDTEwNDc3OTcwMTk4MzAxYDBeBgNVBAkMV9CR0L7Qu9GM0YjQvtC5INCX0LvQsNGC0L7Rg9GB0YLQuNC90YHQutC40Lkg0L/QtdGA0LXRg9C70L7Quiwg0LQuIDYsINGB0YLRgNC+0LXQvdC40LUgMTEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxLjAsBgNVBAoMJdCa0LDQt9C90LDRh9C10LnRgdGC0LLQviDQoNC+0YHRgdC40LgxODA2BgNVBAMML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MGYwHwYIKoUDBwEBAQEwEwYHKoUDAgIjAQYIKoUDBwEBAgIDQwAEQP39mzZdfncfn43QomQmu64py87hXMckPCVdklh/Bpi06VdpnA/KuMXoXlHT8H+kqcPR/JiCpLfxpcRswU3U3bOjggQ9MIIEOTASBgNVHRMBAf8ECDAGAQH/AgEAMIGUBgUqhQNkbwSBigyBh9Cf0YDQvtCz0YDQsNC80LzQvdC+LdCw0L/Qv9Cw0YDQsNGC0L3Ri9C5INC60L7QvNC/0LvQtdC60YEgVmlQTmV0IFBLSSBTZXJ2aWNlICjQvdCwINCw0L/Qv9Cw0YDQsNGC0L3QvtC5INC/0LvQsNGC0YTQvtGA0LzQtSBIU00gMjAwMFEyKTAOBgNVHQ8BAf8EBAMCAcYwJwYDVR0gBCAwHjAIBgYqhQNkcQEwCAYGKoUDZHECMAgGBiqFA2RxAzCCAX0GA1UdIwSCAXQwggFwgBTJE1ixTKdiOn7SPzym5xR8nXCjhqGCAUOkggE/MIIBOzEhMB8GCSqGSIb3DQEJARYSZGl0QGRpZ2l0YWwuZ292LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMVMwUQYDVQQJDErQn9GA0LXRgdC90LXQvdGB0LrQsNGPINC90LDQsdC10YDQtdC20L3QsNGPLCDQtNC+0LwgMTAsINGB0YLRgNC+0LXQvdC40LUgMjEmMCQGA1UECgwd0JzQuNC90YbQuNGE0YDRiyDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEVMBMGBSqFA2QEEgo3NzEwNDc0Mzc1MSYwJAYDVQQDDB3QnNC40L3RhtC40YTRgNGLINCg0L7RgdGB0LjQuIIRAJUfo0d8YQQ6rfqFhieCNEIwHQYDVR0OBBYEFAZkE6fO4IPipn2fiafWVhmYTNmnMGgGA1UdHwRhMF8wLaAroCmGJ2h0dHA6Ly9jcmwuZ29zdXNsdWdpLnJ1L2NkcC9ndWMyMDIyLmNybDAuoCygKoYoaHR0cDovL2NybDIuZ29zdXNsdWdpLnJ1L2NkcC9ndWMyMDIyLmNybDBDBggrBgEFBQcBAQQ3MDUwMwYIKwYBBQUHMAKGJ2h0dHA6Ly9jcmwuZ29zdXNsdWdpLnJ1L2NkcC9ndWMyMDIyLmNydDCB9QYFKoUDZHAEgeswgegMNNCf0JDQmtCcIMKr0JrRgNC40L/RgtC+0J/RgNC+IEhTTcK7INCy0LXRgNGB0LjQuCAyLjAMQ9Cf0JDQmiDCq9CT0L7Qu9C+0LLQvdC+0Lkg0YPQtNC+0YHRgtC+0LLQtdGA0Y/RjtGJ0LjQuSDRhtC10L3RgtGAwrsMNdCX0LDQutC70Y7Rh9C10L3QuNC1IOKEliAxNDkvMy8yLzIvMjMg0L7RgiAwMi4wMy4yMDE4DDTQl9Cw0LrQu9GO0YfQtdC90LjQtSDihJYgMTQ5LzcvNi00NDkg0L7RgiAzMC4xMi4yMDIxMAwGBSqFA2RyBAMCAQEwCgYIKoUDBwEBAwIDQQDyAlmJKxndeuBD4y18LcpbypReAUQAkFEt9AAzZx119V7yM89VC14pGTnPtArED1Wru2MnJjH8ksOQcyUdaZRVMIIJADCCCK2gAwIBAgIRAIuZygeZqdvVFo32PLiWP9wwCgYIKoUDBwEBAwIwggFhMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRUwEwYFKoUDZAQSCjc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMQswCQYDVQQGEwJSVTEuMCwGA1UECgwl0JrQsNC30L3QsNGH0LXQudGB0YLQstC+INCg0L7RgdGB0LjQuDE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4wHhcNMjUwMzI3MDYzNTMwWhcNMjYwNjIwMDYzNTMwWjCCAc4xCzAJBgNVBAYTAlJVMTAwLgYDVQQIDCfQodCy0LXRgNC00LvQvtCy0YHQutCw0Y8g0L7QsdC70LDRgdGC0YwxGDAWBgNVBAcMD9GBLtCi0LDQsdC+0YDRizEsMCoGA1UEDAwj0JPQu9Cw0LLQvdGL0Lkg0YHQv9C10YbQuNCw0LvQuNGB0YIxZjBkBgNVBAoMXdCQ0JTQnNCY0J3QmNCh0KLQoNCQ0KbQmNCvINCi0JDQkdCe0KDQmNCd0KHQmtCe0JPQniDQnNCj0J3QmNCm0JjQn9CQ0JvQrNCd0J7Qk9CeINCg0JDQmdCe0J3QkDEWMBQGBSqFA2QDEgswMjg2MzQ2NzM3MzEaMBgGCCqFAwOBAwEBEgw2NjUzMDAwODU2NTgxITAfBgkqhkiG9w0BCQEWEmlsamFiYXJtaW5AbWFpbC5ydTEkMCIGA1UEKgwb0J7Qu9GM0LPQsCDQmNCy0LDQvdC+0LLQvdCwMSEwHwYDVQQEDBjQmtC10LvRjNCx0LjRhdCw0L3QvtCy0LAxPTA7BgNVBAMMNNCa0LXQu9GM0LHQuNGF0LDQvdC+0LLQsCDQntC70YzQs9CwINCY0LLQsNC90L7QstC90LAwZjAfBggqhQMHAQEBATATBgcqhQMCAiQABggqhQMHAQECAgNDAARABRCyV4dvsGagj+7qIXUu2VKgZRjtXgXAZSSEXN62eTNJXZCxj2b/KTDuFuKpaz5FR63jaxXt6+cLq5H+GAXNlaOCBMYwggTCMCsGA1UdEAQkMCKADzIwMjUwMzI3MDY0NzAwWoEPMjAyNjA2MjAwNjQ3MDBaMA4GA1UdDwEB/wQEAwID+DATBgNVHSUEDDAKBggrBgEFBQcDAjATBgNVHSAEDDAKMAgGBiqFA2RxATAMBgUqhQNkcgQDAgEBMCwGBSqFA2RvBCMMIdCa0YDQuNC/0YLQvtCf0YDQviBDU1AgKDQuMC45OTYzKTCCAaEGBSqFA2RwBIIBljCCAZIMgYfQn9GA0L7Qs9GA0LDQvNC80L3Qvi3QsNC/0L/QsNGA0LDRgtC90YvQuSDQutC+0LzQv9C70LXQutGBIFZpUE5ldCBQS0kgU2VydmljZSAo0L3QsCDQsNC/0L/QsNGA0LDRgtC90L7QuSDQv9C70LDRgtGE0L7RgNC80LUgSFNNIDIwMDBRMikMaNCf0YDQvtCz0YDQsNC80LzQvdC+LdCw0L/Qv9Cw0YDQsNGC0L3Ri9C5INC60L7QvNC/0LvQtdC60YEgwqvQrtC90LjRgdC10YDRgi3Qk9Ce0KHQosK7LiDQktC10YDRgdC40Y8gNC4wDE1D0LXRgNGC0LjRhNC40LrQsNGCINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDihJbQodCkLzEyNC00MzI4INC+0YIgMjkuMDguMjAyMgxNQ9C10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSW0KHQpC8xMjgtNDYzOSDQvtGCIDA0LjEwLjIwMjMwZgYDVR0fBF8wXTAuoCygKoYoaHR0cDovL2NybC5yb3NrYXpuYS5ydS9jcmwvdWNma18yMDI0LmNybDAroCmgJ4YlaHR0cDovL2NybC5may5sb2NhbC9jcmwvdWNma18yMDI0LmNybDB3BggrBgEFBQcBAQRrMGkwNAYIKwYBBQUHMAKGKGh0dHA6Ly9jcmwucm9za2F6bmEucnUvY3JsL3VjZmtfMjAyNC5jcnQwMQYIKwYBBQUHMAKGJWh0dHA6Ly9jcmwuZmsubG9jYWwvY3JsL3VjZmtfMjAyNC5jcnQwHQYDVR0OBBYEFH8N2qgcO6TIJHSna2aswQCrA0k/MIIBdgYDVR0jBIIBbTCCAWmAFAZkE6fO4IPipn2fiafWVhmYTNmnoYIBQ6SCAT8wggE7MSEwHwYJKoZIhvcNAQkBFhJkaXRAZGlnaXRhbC5nb3YucnUxCzAJBgNVBAYTAlJVMRgwFgYDVQQIDA83NyDQnNC+0YHQutCy0LAxGTAXBgNVBAcMENCzLiDQnNC+0YHQutCy0LAxUzBRBgNVBAkMStCf0YDQtdGB0L3QtdC90YHQutCw0Y8g0L3QsNCx0LXRgNC10LbQvdCw0Y8sINC00L7QvCAxMCwg0YHRgtGA0L7QtdC90LjQtSAyMSYwJAYDVQQKDB3QnNC40L3RhtC40YTRgNGLINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRUwEwYFKoUDZAQSCjc3MTA0NzQzNzUxJjAkBgNVBAMMHdCc0LjQvdGG0LjRhNGA0Ysg0KDQvtGB0YHQuNC4ggpsCcB2AAAAAAmMMAoGCCqFAwcBAQMCA0EAOj7lng+4q3tjUGn6rmgi2yBduBs0RZFdULi0jQXQC/nTK3ZcuDlcr9w/630f24DdvHlhp2Zp/DST1o5r1nE1GzGCBGAwggRcAgEBMIIBeDCCAWExIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRgwFgYDVQQIDA83NyDQnNC+0YHQutCy0LAxFTATBgUqhQNkBBIKNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExGTAXBgNVBAcMENCzLiDQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMS4wLAYDVQQKDCXQmtCw0LfQvdCw0YfQtdC50YHRgtCy0L4g0KDQvtGB0YHQuNC4MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvgIRAIuZygeZqdvVFo32PLiWP9wwDAYIKoUDBwEBAgIFAKCCAmgwGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMTE5MTIwNjUxWjAqBgorBgEEAYI3WAIBMRwEGkQAbwBjAHUAbQBlAG4AdAAgAE4AYQBtAGUAMC8GCSqGSIb3DQEJBDEiBCBTjbTPgZllDgmOPl+itmIz1qytwTBWFCQJQxONxajR8DCCAc8GCyqGSIb3DQEJEAIvMYIBvjCCAbowggG2MIIBsjAKBggqhQMHAQECAgQg4ta6i0TjD9BiDlMCC7jDMBWjnzIishNmZNSwZEUmDzowggGAMIIBaaSCAWUwggFhMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRUwEwYFKoUDZAQSCjc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMQswCQYDVQQGEwJSVTEuMCwGA1UECgwl0JrQsNC30L3QsNGH0LXQudGB0YLQstC+INCg0L7RgdGB0LjQuDE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4CEQCLmcoHmanb1RaN9jy4lj/cMB8GCCqFAwcBAQEBMBMGByqFAwICJAAGCCqFAwcBAQICBEBLPTxxTlCjocAfyJCQUU6Bu9gyiQyda8pgmULgQ9cUHtqU77QWOabhIXMmcpaCeSu8096P1fOpwJJkUZcrPKBD</ns4:signature>
+                </ns4:cryptoSigns>
+            </ns4:attachmentInfo>
+            <ns4:attachmentInfo>
+                <ns4:publishedContentId>BF7E7EFB43C4460BA6D1C29BB3B6580D</ns4:publishedContentId>
+                <ns4:fileName>Техническое задание 2025г.docx</ns4:fileName>
+                <ns4:fileSize>163146</ns4:fileSize>
+                <ns4:docDescription>Техническое задание</ns4:docDescription>
+                <ns4:docDate>2025-11-19T15:05:48+03:00</ns4:docDate>
+                <ns4:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=BF7E7EFB43C4460BA6D1C29BB3B6580D</ns4:url>
+                <ns4:docKindInfo>
+                    <ns2:code>AD</ns2:code>
+                    <ns2:name>Дополнительная информация и документы</ns2:name>
+                </ns4:docKindInfo>
+                <ns4:cryptoSigns>
+                    <ns4:signature type="CAdES-BES">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</ns4:signature>
+                </ns4:cryptoSigns>
+            </ns4:attachmentInfo>
+        </ns5:attachmentsInfo>
+        <ns5:serviceSigns>
+            <ns5:isIncludeKOKS>false</ns5:isIncludeKOKS>
+            <ns5:isControlP1Ch5St99>true</ns5:isControlP1Ch5St99>
+        </ns5:serviceSigns>
+        <ns5:notificationInfo>
+            <ns5:procedureInfo>
+                <ns5:collectingInfo>
+                    <ns5:startDT>2025-11-19T17:06:55+05:00</ns5:startDT>
+                    <ns5:endDT>2025-11-27T09:00:00+05:00</ns5:endDT>
+                </ns5:collectingInfo>
+                <ns5:biddingDate>2025-11-27+05:00</ns5:biddingDate>
+                <ns5:summarizingDate>2025-11-28+05:00</ns5:summarizingDate>
+            </ns5:procedureInfo>
+            <ns5:contractConditionsInfo>
+                <ns5:maxPriceInfo>
+                    <ns5:maxPrice>99885.5</ns5:maxPrice>
+                    <ns5:currency>
+                        <ns2:code>RUB</ns2:code>
+                        <ns2:name>РОССИЙСКИЙ РУБЛЬ</ns2:name>
+                    </ns5:currency>
+                </ns5:maxPriceInfo>
+            </ns5:contractConditionsInfo>
+            <ns5:customerRequirementsInfo>
+                <ns5:customerRequirementInfo>
+                    <ns5:customer>
+                        <ns2:regNum>01623000069</ns2:regNum>
+                        <ns2:consRegistryNum>65300223</ns2:consRegistryNum>
+                        <ns2:fullName>АДМИНИСТРАЦИЯ ТАБОРИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА</ns2:fullName>
+                    </ns5:customer>
+                    <ns5:contractGuarantee>
+                        <ns5:account>
+                            <ns4:bik>016577551</ns4:bik>
+                            <ns4:settlementAccount>03232643656450006200</ns4:settlementAccount>
+                            <ns4:personalAccount>05623002230</ns4:personalAccount>
+                            <ns4:creditOrgName>УРАЛЬСКОЕ ГУ БАНКА РОССИИ//УФК по Свердловской области, г Екатеринбург</ns4:creditOrgName>
+                            <ns4:corrAccountNumber>40102810645370000054</ns4:corrAccountNumber>
+                        </ns5:account>
+                        <ns5:procedureInfo>В соответствии с действующим законодательством о контрактной системе</ns5:procedureInfo>
+                        <ns5:part>5.0</ns5:part>
+                    </ns5:contractGuarantee>
+                    <ns5:contractConditionsInfo>
+                        <ns5:maxPriceInfo>
+                            <ns5:maxPrice>99885.5</ns5:maxPrice>
+                        </ns5:maxPriceInfo>
+                        <ns5:mustPublicDiscussion>false</ns5:mustPublicDiscussion>
+                        <ns5:IKZInfo>
+                            <ns5:purchaseCode>253665300038166760100100080013213244</ns5:purchaseCode>
+                            <ns5:publishYear>2025</ns5:publishYear>
+                            <ns5:OKPD2Info>
+                                <ns4:OKPD2>
+                                    <ns2:OKPDCode>32.13</ns2:OKPDCode>
+                                    <ns2:OKPDName>Бижутерия и подобные изделия</ns2:OKPDName>
+                                </ns4:OKPD2>
+                            </ns5:OKPD2Info>
+                            <ns5:KVRInfo>
+                                <ns4:KVR>
+                                    <ns2:code>244</ns2:code>
+                                    <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                                </ns4:KVR>
+                            </ns5:KVRInfo>
+                            <ns5:customerCode>36653000381667601001</ns5:customerCode>
+                            <ns5:purchaseNumber>0008</ns5:purchaseNumber>
+                            <ns5:purchaseOrderNumber>001</ns5:purchaseOrderNumber>
+                        </ns5:IKZInfo>
+                        <ns5:tenderPlan2020Info>
+                            <ns4:plan2020Number>202501623000069001</ns4:plan2020Number>
+                            <ns4:position2020Number>202501623000069001000022</ns4:position2020Number>
+                        </ns5:tenderPlan2020Info>
+                        <ns5:contractExecutionPaymentPlan>
+                            <ns5:contractExecutionTermsInfo>
+                                <ns4:notRelativeTermsInfo>
+                                    <ns4:isFromConclusionDate>true</ns4:isFromConclusionDate>
+                                    <ns4:endDate>2025-12-20+03:00</ns4:endDate>
+                                </ns4:notRelativeTermsInfo>
+                            </ns5:contractExecutionTermsInfo>
+                            <ns5:financingSourcesInfo>
+                                <ns5:budgetFinancingsInfo>
+                                    <ns5:budgetInfo>
+                                        <ns2:code>62030069</ns2:code>
+                                        <ns2:name>Бюджет Таборинского муниципального района</ns2:name>
+                                    </ns5:budgetInfo>
+                                    <ns5:budgetLevelInfo>
+                                        <ns2:code>30</ns2:code>
+                                        <ns2:name>местный бюджет</ns2:name>
+                                    </ns5:budgetLevelInfo>
+                                    <ns5:OKTMOInfo>
+                                        <ns2:code>65645000</ns2:code>
+                                        <ns2:name>Муниципальные образования Свердловской области / Муниципальные районы Свердловской области / Таборинский муниципальный район</ns2:name>
+                                    </ns5:OKTMOInfo>
+                                </ns5:budgetFinancingsInfo>
+                                <ns5:currentYear>2025</ns5:currentYear>
+                                <ns5:financeInfo>
+                                    <ns5:total>99885.5</ns5:total>
+                                    <ns5:currentYear>99885.5</ns5:currentYear>
+                                    <ns5:firstYear>0</ns5:firstYear>
+                                    <ns5:secondYear>0</ns5:secondYear>
+                                    <ns5:subsecYears>0</ns5:subsecYears>
+                                </ns5:financeInfo>
+                            </ns5:financingSourcesInfo>
+                            <ns5:stagesInfo>
+                                <ns5:stageInfo>
+                                    <ns5:sid>17660069</ns5:sid>
+                                    <ns5:externalSid>f94fb26e-2d9c-4396-9164-6611d7b1f595</ns5:externalSid>
+                                    <ns5:termsInfo>
+                                        <ns4:notRelativeTermsInfo>
+                                            <ns4:isFromConclusionDate>true</ns4:isFromConclusionDate>
+                                            <ns4:endDate>2025-12-20+03:00</ns4:endDate>
+                                        </ns4:notRelativeTermsInfo>
+                                    </ns5:termsInfo>
+                                    <ns5:budgetFinancingsInfo>
+                                        <ns5:budgetFinancingInfo>
+                                            <ns5:KBK>90111020130118010244</ns5:KBK>
+                                            <ns5:paymentYearInfo>
+                                                <ns5:total>99885.5</ns5:total>
+                                                <ns5:currentYear>99885.5</ns5:currentYear>
+                                                <ns5:firstYear>0</ns5:firstYear>
+                                                <ns5:secondYear>0</ns5:secondYear>
+                                                <ns5:subsecYears>0</ns5:subsecYears>
+                                            </ns5:paymentYearInfo>
+                                        </ns5:budgetFinancingInfo>
+                                    </ns5:budgetFinancingsInfo>
+                                </ns5:stageInfo>
+                            </ns5:stagesInfo>
+                        </ns5:contractExecutionPaymentPlan>
+                        <ns5:deliveryPlacesInfo>
+                            <ns5:byGARInfo>
+                                <ns4:sid>56335862</ns4:sid>
+                                <ns4:externalSid>33bb24b3-11ba-4b86-86e8-ef5b122ef788</ns4:externalSid>
+                                <ns4:countryInfo>
+                                    <ns2:countryCode>643</ns2:countryCode>
+                                    <ns2:countryFullName>Российская Федерация</ns2:countryFullName>
+                                </ns4:countryInfo>
+                                <ns4:GARInfo>
+                                    <ns4:GARGuid>40f587e6-ff2f-41d6-9975-0227dee11d04</ns4:GARGuid>
+                                    <ns4:GARAddress>обл Свердловская, м.р-н Таборинский, с.п. Таборинское, с Таборы, ул Советская, влд. 4</ns4:GARAddress>
+                                </ns4:GARInfo>
+                            </ns5:byGARInfo>
+                        </ns5:deliveryPlacesInfo>
+                        <ns5:isOneSideRejectionSt95>true</ns5:isOneSideRejectionSt95>
+                    </ns5:contractConditionsInfo>
+                </ns5:customerRequirementInfo>
+            </ns5:customerRequirementsInfo>
+            <ns5:purchaseObjectsInfo>
+                <ns5:notDrugPurchaseObjectsInfo>
+                    <ns4:purchaseObject>
+                        <ns4:sid>197013982</ns4:sid>
+                        <ns4:externalSid>85639250-3cb7-4b9f-91b8-daf1739185a5</ns4:externalSid>
+                        <ns4:OKPD2>
+                            <ns2:OKPDCode>14.13.21.140</ns2:OKPDCode>
+                            <ns2:OKPDName>Анораки, ветровки, штормовки и аналогичные изделия мужские или для мальчиков из текстильных материалов, кроме трикотажных или вязаных</ns2:OKPDName>
+                            <ns4:characteristics>
+                                <ns4:characteristicsUsingTextForm>
+                                    <ns4:sid>255731719</ns4:sid>
+                                    <ns4:externalSid>2e17d6d9-07b2-4bdb-b54c-65927c172b03</ns4:externalSid>
+                                    <ns4:name>Ткань</ns4:name>
+                                    <ns4:type>1</ns4:type>
+                                    <ns4:characteristicsFillingInstruction>
+                                        <ns2:code>2</ns2:code>
+                                        <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                    </ns4:characteristicsFillingInstruction>
+                                    <ns4:values>
+                                        <ns4:value>
+                                            <ns4:sid>327637806</ns4:sid>
+                                            <ns4:externalSid>5c5dfa96-9b20-4729-be3a-d85f99218ab1</ns4:externalSid>
+                                            <ns4:qualityDescription>Прописано в техническом задании к проекту муниципального контракта</ns4:qualityDescription>
+                                        </ns4:value>
+                                    </ns4:values>
+                                </ns4:characteristicsUsingTextForm>
+                            </ns4:characteristics>
+                        </ns4:OKPD2>
+                        <ns4:name>поставка сувенирной и наградной продукции</ns4:name>
+                        <ns4:OKEI>
+                            <ns2:code>796</ns2:code>
+                            <ns2:nationalCode>шт</ns2:nationalCode>
+                            <ns2:name>Штука</ns2:name>
+                        </ns4:OKEI>
+                        <ns4:price>3167.67</ns4:price>
+                        <ns4:volumeSpecifyingMethod>QF</ns4:volumeSpecifyingMethod>
+                        <ns4:quantity>
+                            <ns4:value>15</ns4:value>
+                        </ns4:quantity>
+                        <ns4:sum>47515.05</ns4:sum>
+                        <ns4:type>PRODUCT</ns4:type>
+                        <ns4:hierarchyType>ND</ns4:hierarchyType>
+                        <ns4:restrictionsInfo>
+                            <ns4:isProhibitionForeignPurchaseObjects>true</ns4:isProhibitionForeignPurchaseObjects>
+                        </ns4:restrictionsInfo>
+                    </ns4:purchaseObject>
+                    <ns4:purchaseObject>
+                        <ns4:sid>197013983</ns4:sid>
+                        <ns4:externalSid>0fd30c72-6914-4097-9ac1-a452ebea2d4d</ns4:externalSid>
+                        <ns4:OKPD2>
+                            <ns2:OKPDCode>32.13.10.120</ns2:OKPDCode>
+                            <ns2:OKPDName>Награды</ns2:OKPDName>
+                            <ns4:characteristics>
+                                <ns4:characteristicsUsingTextForm>
+                                    <ns4:sid>255731720</ns4:sid>
+                                    <ns4:externalSid>b678f997-d0a0-43b4-91d6-06284bb34ea4</ns4:externalSid>
+                                    <ns4:name>Размер, форма, цвет, материал</ns4:name>
+                                    <ns4:type>1</ns4:type>
+                                    <ns4:characteristicsFillingInstruction>
+                                        <ns2:code>2</ns2:code>
+                                        <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                    </ns4:characteristicsFillingInstruction>
+                                    <ns4:values>
+                                        <ns4:value>
+                                            <ns4:sid>327637807</ns4:sid>
+                                            <ns4:externalSid>7b69de85-50ad-47e1-b663-4a8f1b05de57</ns4:externalSid>
+                                            <ns4:qualityDescription>Прописано в техническом задании к проекту муниципального контракта</ns4:qualityDescription>
+                                        </ns4:value>
+                                    </ns4:values>
+                                </ns4:characteristicsUsingTextForm>
+                            </ns4:characteristics>
+                        </ns4:OKPD2>
+                        <ns4:name>Поставка сувенирной и наградной продукции</ns4:name>
+                        <ns4:OKEI>
+                            <ns2:code>796</ns2:code>
+                            <ns2:nationalCode>шт</ns2:nationalCode>
+                            <ns2:name>Штука</ns2:name>
+                        </ns4:OKEI>
+                        <ns4:price>2621.33</ns4:price>
+                        <ns4:volumeSpecifyingMethod>QF</ns4:volumeSpecifyingMethod>
+                        <ns4:quantity>
+                            <ns4:value>10</ns4:value>
+                        </ns4:quantity>
+                        <ns4:sum>26213.3</ns4:sum>
+                        <ns4:type>PRODUCT</ns4:type>
+                        <ns4:hierarchyType>ND</ns4:hierarchyType>
+                        <ns4:restrictionsInfo>
+                            <ns4:isPreferenseRFPurchaseObjects>true</ns4:isPreferenseRFPurchaseObjects>
+                        </ns4:restrictionsInfo>
+                    </ns4:purchaseObject>
+                    <ns4:purchaseObject>
+                        <ns4:sid>197013984</ns4:sid>
+                        <ns4:externalSid>c6ae5540-f146-46f7-aaef-aeebc4a97d47</ns4:externalSid>
+                        <ns4:OKPD2>
+                            <ns2:OKPDCode>22.29.25.000</ns2:OKPDCode>
+                            <ns2:OKPDName>Принадлежности канцелярские или школьные пластмассовые</ns2:OKPDName>
+                            <ns4:characteristics>
+                                <ns4:characteristicsUsingTextForm>
+                                    <ns4:sid>255731721</ns4:sid>
+                                    <ns4:externalSid>546c3e35-08fd-48e3-9bfd-d70fa6a6314c</ns4:externalSid>
+                                    <ns4:name>размер</ns4:name>
+                                    <ns4:type>2</ns4:type>
+                                    <ns4:characteristicsFillingInstruction>
+                                        <ns2:code>1</ns2:code>
+                                        <ns2:name>Участник закупки указывает в заявке диапазон значений характеристики</ns2:name>
+                                    </ns4:characteristicsFillingInstruction>
+                                    <ns4:values>
+                                        <ns4:value>
+                                            <ns4:sid>327637808</ns4:sid>
+                                            <ns4:externalSid>355b1769-d6f6-43f8-b708-4e7bf84dac31</ns4:externalSid>
+                                            <ns4:OKEI>
+                                                <ns2:code>003</ns2:code>
+                                                <ns2:nationalCode>мм</ns2:nationalCode>
+                                                <ns2:name>Миллиметр</ns2:name>
+                                            </ns4:OKEI>
+                                            <ns4:rangeSet>
+                                                <ns4:valueRange>
+                                                    <ns4:minMathNotation>greaterOrEqual</ns4:minMathNotation>
+                                                    <ns4:min>3</ns4:min>
+                                                    <ns4:maxMathNotation>lessOrEqual</ns4:maxMathNotation>
+                                                    <ns4:max>6</ns4:max>
+                                                </ns4:valueRange>
+                                            </ns4:rangeSet>
+                                        </ns4:value>
+                                    </ns4:values>
+                                </ns4:characteristicsUsingTextForm>
+                            </ns4:characteristics>
+                        </ns4:OKPD2>
+                        <ns4:name>Поставка сувенирной и наградной продукции</ns4:name>
+                        <ns4:OKEI>
+                            <ns2:code>796</ns2:code>
+                            <ns2:nationalCode>шт</ns2:nationalCode>
+                            <ns2:name>Штука</ns2:name>
+                        </ns4:OKEI>
+                        <ns4:price>113.67</ns4:price>
+                        <ns4:volumeSpecifyingMethod>QF</ns4:volumeSpecifyingMethod>
+                        <ns4:quantity>
+                            <ns4:value>145</ns4:value>
+                        </ns4:quantity>
+                        <ns4:sum>16482.15</ns4:sum>
+                        <ns4:type>PRODUCT</ns4:type>
+                        <ns4:hierarchyType>ND</ns4:hierarchyType>
+                        <ns4:restrictionsInfo>
+                            <ns4:isRestrictForeignPurchaseObjects>true</ns4:isRestrictForeignPurchaseObjects>
+                        </ns4:restrictionsInfo>
+                    </ns4:purchaseObject>
+                    <ns4:purchaseObject>
+                        <ns4:sid>197013985</ns4:sid>
+                        <ns4:externalSid>3fe2443b-dbd8-4ed2-be6b-48e16ff39fe4</ns4:externalSid>
+                        <ns4:OKPD2>
+                            <ns2:OKPDCode>32.13.10.120</ns2:OKPDCode>
+                            <ns2:OKPDName>Награды</ns2:OKPDName>
+                            <ns4:characteristics>
+                                <ns4:characteristicsUsingTextForm>
+                                    <ns4:sid>255731722</ns4:sid>
+                                    <ns4:externalSid>d041fc73-659f-4e45-a069-2a0482acec5c</ns4:externalSid>
+                                    <ns4:name>Размер, форма, цвет, материал</ns4:name>
+                                    <ns4:type>1</ns4:type>
+                                    <ns4:characteristicsFillingInstruction>
+                                        <ns2:code>2</ns2:code>
+                                        <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                    </ns4:characteristicsFillingInstruction>
+                                    <ns4:values>
+                                        <ns4:value>
+                                            <ns4:sid>327637809</ns4:sid>
+                                            <ns4:externalSid>e8269f7f-5aeb-4a47-a4bc-f23151f038e5</ns4:externalSid>
+                                            <ns4:qualityDescription>Прописано в техническом задании к проекту муниципального контракта</ns4:qualityDescription>
+                                        </ns4:value>
+                                    </ns4:values>
+                                </ns4:characteristicsUsingTextForm>
+                            </ns4:characteristics>
+                        </ns4:OKPD2>
+                        <ns4:name>Поставка сувенирной и наградной продукции</ns4:name>
+                        <ns4:OKEI>
+                            <ns2:code>796</ns2:code>
+                            <ns2:nationalCode>шт</ns2:nationalCode>
+                            <ns2:name>Штука</ns2:name>
+                        </ns4:OKEI>
+                        <ns4:price>288</ns4:price>
+                        <ns4:volumeSpecifyingMethod>QF</ns4:volumeSpecifyingMethod>
+                        <ns4:quantity>
+                            <ns4:value>15</ns4:value>
+                        </ns4:quantity>
+                        <ns4:sum>4320</ns4:sum>
+                        <ns4:type>PRODUCT</ns4:type>
+                        <ns4:hierarchyType>ND</ns4:hierarchyType>
+                        <ns4:restrictionsInfo>
+                            <ns4:isPreferenseRFPurchaseObjects>true</ns4:isPreferenseRFPurchaseObjects>
+                        </ns4:restrictionsInfo>
+                    </ns4:purchaseObject>
+                    <ns4:purchaseObject>
+                        <ns4:sid>197013986</ns4:sid>
+                        <ns4:externalSid>aaa2586c-4da3-4128-a4fa-b7fe3289a303</ns4:externalSid>
+                        <ns4:OKPD2>
+                            <ns2:OKPDCode>32.13.10.120</ns2:OKPDCode>
+                            <ns2:OKPDName>Награды</ns2:OKPDName>
+                            <ns4:characteristics>
+                                <ns4:characteristicsUsingTextForm>
+                                    <ns4:sid>255731723</ns4:sid>
+                                    <ns4:externalSid>95344766-8a25-470f-9a04-6b49141926ba</ns4:externalSid>
+                                    <ns4:name>Размер, форма, цвет, материал</ns4:name>
+                                    <ns4:type>1</ns4:type>
+                                    <ns4:characteristicsFillingInstruction>
+                                        <ns2:code>2</ns2:code>
+                                        <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                    </ns4:characteristicsFillingInstruction>
+                                    <ns4:values>
+                                        <ns4:value>
+                                            <ns4:sid>327637810</ns4:sid>
+                                            <ns4:externalSid>4de15992-8e36-4dd0-b17c-009808bcc4d5</ns4:externalSid>
+                                            <ns4:qualityDescription>Прописаны в техническом задании к проекту мунициипального контракта</ns4:qualityDescription>
+                                        </ns4:value>
+                                    </ns4:values>
+                                </ns4:characteristicsUsingTextForm>
+                            </ns4:characteristics>
+                        </ns4:OKPD2>
+                        <ns4:name>Поставка сувенирной и наградной продукции</ns4:name>
+                        <ns4:OKEI>
+                            <ns2:code>796</ns2:code>
+                            <ns2:nationalCode>шт</ns2:nationalCode>
+                            <ns2:name>Штука</ns2:name>
+                        </ns4:OKEI>
+                        <ns4:price>357</ns4:price>
+                        <ns4:volumeSpecifyingMethod>QF</ns4:volumeSpecifyingMethod>
+                        <ns4:quantity>
+                            <ns4:value>15</ns4:value>
+                        </ns4:quantity>
+                        <ns4:sum>5355</ns4:sum>
+                        <ns4:type>PRODUCT</ns4:type>
+                        <ns4:hierarchyType>ND</ns4:hierarchyType>
+                        <ns4:restrictionsInfo>
+                            <ns4:isPreferenseRFPurchaseObjects>true</ns4:isPreferenseRFPurchaseObjects>
+                        </ns4:restrictionsInfo>
+                    </ns4:purchaseObject>
+                    <ns4:totalSum>99885.50</ns4:totalSum>
+                    <ns5:quantityUndefined>false</ns5:quantityUndefined>
+                </ns5:notDrugPurchaseObjectsInfo>
+            </ns5:purchaseObjectsInfo>
+            <ns5:preferensesInfo>
+                <ns5:preferenseInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>PVS33044</ns2:shortName>
+                        <ns2:name>Преимущество в соответствии с ч. 3 ст. 30 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                </ns5:preferenseInfo>
+            </ns5:preferensesInfo>
+            <ns5:requirementsInfo>
+                <ns5:requirementInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>ET44</ns2:shortName>
+                        <ns2:name>Единые требования к участникам закупок в соответствии с ч. 1 ст. 31 Закона № 44-ФЗ</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                </ns5:requirementInfo>
+                <ns5:requirementInfo>
+                    <ns4:preferenseRequirementInfo>
+                        <ns2:shortName>TOVNPIVR</ns2:shortName>
+                        <ns2:name>Требование об отсутствии в реестре недобросовестных поставщиков (подрядчиков, исполнителей) информации, включенной в такой реестр в связи отказом поставщика (подрядчика, исполнителя) от исполнения контракта по причине введения в отношении заказчика санкций и (или) мер ограничительного характера</ns2:name>
+                    </ns4:preferenseRequirementInfo>
+                </ns5:requirementInfo>
+            </ns5:requirementsInfo>
+            <ns5:flags>
+                <ns5:purchaseObjectsCh9St37>false</ns5:purchaseObjectsCh9St37>
+            </ns5:flags>
+        </ns5:notificationInfo>
+    </ns3:epNotificationEF2020>
+</ns3:export>

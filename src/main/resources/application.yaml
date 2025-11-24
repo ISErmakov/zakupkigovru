@@ -9,7 +9,7 @@ server:
 
 logging:
   level:
-    ru.ermakovdev.torgigov: DEBUG
+    ru.ermakovdev.torgigov: INFO
 
 yandex:
   geocoder:
@@ -24,6 +24,6 @@ app:
     enabled: true
     delay-ms: 200
 
-torgi:
-  api:
-    url: "https://torgi.gov.ru/new/opendata/7710568760-notice/data-20251120T0000-20251121T0000-structure-20240401.json"
+  zakupki:
+    download-delay-ms: 2000
+

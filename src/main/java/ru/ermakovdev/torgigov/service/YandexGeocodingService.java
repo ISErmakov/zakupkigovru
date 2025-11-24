@@ -173,7 +173,7 @@ public class YandexGeocodingService {
       }
 
       log.debug("=== SUCCESSFULLY PARSED ===");
-      log.info("✅ Successfully geocoded address: {} -> [{}, {}]",
+      log.debug("✅ Successfully geocoded address: {} -> [{}, {}]",
           originalAddress, latitude, longitude);
 
       return new GeocodingResult(true, "Success", latitude, longitude, formattedAddress);

@@ -54,6 +54,7 @@ public class Notice {
     private String lotDescription;
     private Double lotAmount;
     private String currency;
+    private String okpd2;
 
     // Конструкторы
     public Lot() {}
