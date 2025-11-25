@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://23.177.184.17:27017/torgi-db
+      uri: mongodb://admin:StrongPasswordqq123!@23.177.184.17:27017/torgi-db?authSource=admin
       auto-index-creation: true
 
 server:

@@ -7,5 +7,11 @@ services:
     ports:
       - "8081:8081"
     environment:
-      - ME_CONFIG_MONGODB_URL=mongodb://23.177.184.17:27017/
+      - ME_CONFIG_MONGODB_SERVER=23.177.184.17  # ← IP удаленной машины
+      - ME_CONFIG_MONGODB_PORT=27017
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=admin
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=StrongPasswordqq123!
+      - ME_CONFIG_MONGODB_AUTH_SOURCE=admin
       - ME_CONFIG_BASICAUTH=false
+    extra_hosts:
+      - "mongo:23.177.184.17"
